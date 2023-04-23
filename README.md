@@ -3,8 +3,7 @@
   
 ## Description
 
-The Expresss JS Note Taker is a simple, lightweight, and fast web application that allows users to write, save and delete notes on their own.
-
+this an application called Note Taker it can allow users to write, save and delete notes on their own.
 ## Table of Contents:
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
