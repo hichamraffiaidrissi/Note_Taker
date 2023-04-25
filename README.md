@@ -50,11 +50,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 5. Click the + icon (top right) to add another note.
 
 ## Deployed Application Link:
-[Deployed Application Link:] (https://peaceful-hamlet-57682.herokuapp.com/)
+[Deployed Application Link:](https://peaceful-hamlet-57682.herokuapp.com/)
  
 # Screenshots
 [screenshot-1](./public/assets/images/Screenshot-1.png)
 [screenshot-2](./public/assets/images/Screenshot-2.png)
+[screenshot-3](./public/assets/images/Screenshot-3.png)
+
 ## License & Copyright ©
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
