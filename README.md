@@ -50,7 +50,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 5. Click the + icon (top right) to add another note.
 
 ## Deployed Application Link:
-[Deployed Application Link:] 
+[Deployed Application Link:] (https://peaceful-hamlet-57682.herokuapp.com/)
  
 
 
