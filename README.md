@@ -52,8 +52,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Deployed Application Link:
 [Deployed Application Link:] (https://peaceful-hamlet-57682.herokuapp.com/)
  
-
-
+# Screenshots
+[screenshot-1](./public/assets/images/Screenshot-1.png)
+[screenshot-2](./public/assets/images/Screenshot-2.png)
 ## License & Copyright ©
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
